@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <meta
+    name="description"
+    content="Digital Marketing FAQ Assistant powered by NLP and TF-IDF."
+  >
+
+  <title>Digital Marketing FAQ Assistant</title>
+
+  <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='style.css') }}"
+  >
+</head>
+
+<body>
+
+  <div class="chat-app">
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header class="chat-header">
+
+      <div class="header-left">
+
+        <div class="bot-avatar">
+          DM
+        </div>
+
+        <div class="header-text">
+
+          <h1>
+            Digital Marketing Assistant
+          </h1>
+
+          <span class="status">
+            <span class="status-dot"></span>
+            Online · NLP-powered
+          </span>
+
+        </div>
+
+      </div>
+
+      <button
+        id="clearChatBtn"
+        class="clear-btn"
+        title="Clear conversation"
+        type="button"
+      >
+        Clear Chat
+      </button>
+
+    </header>
+
+
+    <!-- =========================
+         CHAT WINDOW
+    ========================== -->
+
+    <main
+      class="chat-window"
+      id="chatWindow"
+      aria-live="polite"
+    >
+
+      <!-- Welcome message -->
+
+      <div class="message bot-message">
+
+        <div class="avatar bot-avatar-sm">
+          DM
+        </div>
+
+        <div class="bubble">
+
+          <strong>Hi there! 👋</strong>
+
+          <br><br>
+
+          I'm your Digital Marketing FAQ Assistant.
+
+          <br><br>
+
+          Ask me anything about:
+
+          <strong>SEO</strong>,
+          <strong>Social Media</strong>,
+          <strong>Google Ads</strong>,
+          <strong>Content Marketing</strong>,
+          <strong>Email Marketing</strong>,
+          or
+          <strong>Analytics</strong>.
+
+          <br><br>
+
+          You can also tap one of the suggested questions below
+          to get started.
+
+        </div>
+
+      </div>
+
+    </main>
+
+
+    <!-- =========================
+         TYPING INDICATOR
+    ========================== -->
+
+    <div
+      class="typing-indicator"
+      id="typingIndicator"
+      style="display: none;"
+    >
+
+      <div class="avatar bot-avatar-sm">
+        DM
+      </div>
+
+      <div class="bubble typing-bubble">
+
+        <span></span>
+        <span></span>
+        <span></span>
+
+      </div>
+
+    </div>
+
+
+    <!-- =========================
+         SUGGESTED QUESTIONS
+    ========================== -->
+
+    <div
+      class="suggestions"
+      id="suggestions"
+      aria-label="Suggested questions"
+    >
+
+      <button
+        class="suggestion-chip"
+        type="button"
+      >
+        What is SEO?
+      </button>
+
+      <button
+        class="suggestion-chip"
+        type="button"
+      >
+        How can I improve my website ranking?
+      </button>
+
+      <button
+        class="suggestion-chip"
+        type="button"
+      >
+        What is social media marketing?
+      </button>
+
+      <button
+        class="suggestion-chip"
+        type="button"
+      >
+        What is Google Ads?
+      </button>
+
+      <button
+        class="suggestion-chip"
+        type="button"
+      >
+        What is content marketing?
+      </button>
+
+      <button
+        class="suggestion-chip"
+        type="button"
+      >
+        How does email marketing work?
+      </button>
+
+    </div>
+
+
+    <!-- =========================
+         INPUT AREA
+    ========================== -->
+
+    <footer class="chat-input-area">
+
+      <input
+        type="text"
+        id="userInput"
+        placeholder="Ask a digital marketing question..."
+        autocomplete="off"
+        maxlength="500"
+        aria-label="Type your question"
+      >
+
+      <button
+        id="sendBtn"
+        class="send-btn"
+        title="Send message"
+        type="button"
+        aria-label="Send message"
+      >
+
+        <svg
+          viewBox="0 0 24 24"
+          width="20"
+          height="20"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          aria-hidden="true"
+        >
+
+          <path
+            d="M3 20L21 12L3 4V10L15 12L3 14V20Z"
+            fill="currentColor"
+          />
+
+        </svg>
+
+      </button>
+
+    </footer>
+
+  </div>
+
+
+  <!-- JavaScript -->
+
+  <script
+    src="{{ url_for('static', filename='script.js') }}"
+  ></script>
+
+</body>
+
+</html>

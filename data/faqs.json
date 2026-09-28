@@ -1,0 +1,680 @@
+[
+  {
+    "id": 1,
+    "category": "SEO",
+    "question": "What is SEO?",
+    "question_variations": [
+  "What does SEO mean?",
+  "What is search engine optimization?",
+  "Can you explain SEO?",
+  "How does SEO work?",
+  "Why is SEO important for a website?"
+  ],
+  "answer": "SEO stands for Search Engine Optimization. It is the practice of improving a website so that it ranks higher in search engine results pages (like Google), which helps bring in more organic (unpaid) traffic."
+  },
+  {
+  "id": 2,
+  "category": "SEO",
+  "question": "How can I improve my website ranking?",
+  "question_variations": [
+    "How can I rank higher on Google?",
+    "How do I get my website higher in Google search results?",
+    "How can I improve my Google ranking?",
+    "How can I make my website appear higher on Google?",
+    "How do I get more people to find my website through Google?",
+    "How can I improve my search engine ranking?"
+  ],
+  "answer": "You can improve your website ranking by creating high-quality content, using relevant keywords naturally, optimizing page titles and meta descriptions, improving site speed, making your site mobile-friendly, and earning backlinks from reputable websites."
+},
+  {
+    "id": 3,
+    "category": "SEO",
+    "question": "What is the difference between on-page and off-page SEO?",
+    "question_variations": [
+  "What is on-page SEO and off-page SEO?",
+  "How are on-page and off-page SEO different?",
+  "What is on-site versus off-site SEO?",
+  "What are on-page and off-page optimization?",
+  "How does on-page SEO differ from backlink building?"
+  ],
+  "answer": "On-page SEO refers to optimizations made directly on your website, such as content, keywords, headings, and meta tags. Off-page SEO refers to actions taken outside your website, such as building backlinks and social media promotion, to improve your site's authority."
+  },
+  {
+    "id": 4,
+    "category": "SEO",
+    "question": "What are keywords in SEO?",
+    "question_variations": [
+  "What are SEO keywords?",
+  "What does a keyword mean in SEO?",
+  "Why are keywords important for SEO?",
+  "How do keywords help websites rank?",
+  "What keywords should I use for SEO?"
+  ],
+  "answer": "Keywords are the words and phrases that people type into search engines when looking for information. In SEO, you research and use relevant keywords in your content so search engines understand what your page is about and show it to the right users."
+  },
+  {
+    "id": 5,
+    "category": "SEO",
+    "question": "What is keyword research?",
+    "question_variations": [
+  "How do I find the right SEO keywords?",
+  "How can I research keywords?",
+  "What is the process of keyword research?",
+  "How do I find keywords people search for?",
+  "Which tools can I use for keyword research?"
+  ],
+  "answer": "Keyword research is the process of finding and analyzing the search terms people use, so you can target the right keywords in your content. Tools like Google Keyword Planner, Ubersuggest, and Ahrefs help identify keyword volume and competition."
+  },
+  {
+    "id": 6,
+    "category": "SEO",
+    "question": "What is a backlink and why is it important?",
+    "question_variations": [
+  "What is a backlink?",
+  "Why are backlinks important for SEO?",
+  "How do backlinks improve ranking?",
+  "What is a link from another website called?",
+  "How can backlinks help my website?"
+  ],
+  "answer": "A backlink is a link from another website pointing to your website. Backlinks are important because search engines view them as votes of confidence, and having quality backlinks can significantly improve your site's ranking and authority."
+  },
+  {
+    "id": 7,
+    "category": "SEO",
+    "question": "What is meta description and why does it matter?",
+    "question_variations": [
+  "What is a meta description?",
+  "Why are meta descriptions important?",
+  "Does a meta description improve SEO?",
+  "What should I write in a meta description?",
+  "How does a meta description affect clicks?"
+  ],
+  "answer": "A meta description is a short summary of a webpage that appears under the title in search results. While it does not directly affect ranking, a well-written meta description improves click-through rate by encouraging users to visit your page."
+  },
+  {
+    "id": 8,
+    "category": "SEO",
+    "question": "How long does SEO take to show results?",
+    "question_variations": [
+  "How long does it take for SEO to work?",
+  "When will I see SEO results?",
+  "How many months does SEO take?",
+  "When does a website start ranking with SEO?",
+  "Why does SEO take time?"
+  ],
+  "answer": "SEO is a long-term strategy, and results typically take anywhere from 3 to 6 months to become noticeable, depending on competition, website age, content quality, and consistency of effort. It requires patience and ongoing optimization."
+  },
+  {
+    "id": 9,
+    "category": "SEO",
+    "question": "What is local SEO?",
+    "question_variations": [
+  "What does local SEO mean?",
+  "How can I improve local search visibility?",
+  "How can my business appear in local Google searches?",
+  "What is SEO for local businesses?",
+  "How can I attract customers from my local area through Google?"
+  ],
+  "answer": "Local SEO is the practice of optimizing your online presence to attract more business from relevant local searches, such as 'restaurants near me'. It involves optimizing your Google Business Profile, local citations, and location-based keywords."
+  },
+  {
+    "id": 10,
+    "category": "SEO",
+    "question": "Why is mobile-friendliness important for SEO?",
+    "question_variations": [
+  "Why does mobile friendliness matter for SEO?",
+  "Does mobile optimization affect Google ranking?",
+  "Why should my website work well on mobile?",
+  "Is mobile-friendly design important for Google?",
+  "How does mobile-first indexing affect SEO?"
+  ],
+  "answer": "Search engines like Google use mobile-first indexing, meaning they primarily use the mobile version of a site for ranking. A mobile-friendly website improves user experience and is essential for ranking well in search results."
+  },
+  {
+  "id": 11,
+  "category": "Social Media Marketing",
+  "question": "What is social media marketing?",
+  "question_variations": [
+    "How can social media help promote my business?",
+    "Can Instagram help me promote my business?",
+    "How can I promote my business on social media?",
+    "What is social media promotion?",
+    "How can businesses use social media for marketing?"
+  ],
+  "answer": "Social media marketing is the use of platforms like Facebook, Instagram, Twitter, and LinkedIn to promote products or services, engage with customers, build brand awareness, and drive website traffic."
+  },
+  {
+    "id": 12,
+    "category": "Social Media Marketing",
+    "question": "Which social media platform is best for business?",
+    "question_variations": [
+  "Which social platform should my business use?",
+  "What is the best social media for business?",
+  "Should my business use Instagram or Facebook?",
+  "Which social network is best for marketing?",
+  "How do I choose a social media platform for my business?"
+  ],
+  "answer": "The best platform depends on your target audience and industry. Instagram and Facebook work well for visual and consumer brands, LinkedIn is ideal for B2B businesses, and TikTok is great for reaching younger audiences with creative content."
+  },
+  {
+    "id": 13,
+    "category": "Social Media Marketing",
+    "question": "How often should I post on social media?",
+    "question_variations": [
+  "How many times should I post on social media?",
+  "What is the ideal social media posting frequency?",
+  "How often should a business post?",
+  "How frequently should I post on Instagram and Facebook?",
+  "What is a good posting schedule for social media?"
+  ],
+  "answer": "Posting frequency varies by platform, but a general guideline is 3-5 times per week on Facebook and Instagram, 1-2 times per day on Twitter/X, and a few times per week on LinkedIn. Consistency matters more than sheer volume."
+  },
+  {
+    "id": 14,
+    "category": "Social Media Marketing",
+    "question": "What is engagement rate in social media?",
+    "question_variations": [
+  "What does social media engagement rate mean?",
+  "How is engagement rate calculated?",
+  "How do I measure social media engagement?",
+  "What is a good engagement rate?",
+  "How can I calculate engagement on social media?"
+  ],
+  "answer": "Engagement rate measures how actively your audience interacts with your content, calculated from likes, comments, shares, and saves relative to your total followers or reach. A higher engagement rate indicates more relevant, compelling content."
+  },
+  {
+    "id": 15,
+    "category": "Social Media Marketing",
+    "question": "What is influencer marketing?",
+    "question_variations": [
+  "What does influencer marketing mean?",
+  "How does influencer marketing work?",
+  "How can influencers promote a business?",
+  "What are influencer marketing campaigns?",
+  "Should businesses work with influencers?"
+  ],
+  "answer": "Influencer marketing is a strategy where brands collaborate with individuals who have an engaged online following to promote their products or services, leveraging the influencer's credibility and reach to build trust with their audience."
+  },
+  {
+    "id": 16,
+    "category": "Social Media Marketing",
+    "question": "How do hashtags help on social media?",
+    "question_variations": [
+  "Why are hashtags useful?",
+  "How do hashtags increase reach?",
+  "Do hashtags help social media posts?",
+  "How should I use hashtags?",
+  "Can hashtags help people discover my content?"
+  ],
+  "answer": "Hashtags categorize content and make it discoverable to users who are not already following you. Using relevant and trending hashtags can increase the reach and visibility of your posts to a wider, interested audience."
+  },
+  {
+    "id": 17,
+    "category": "Social Media Marketing",
+    "question": "What is a social media content calendar?",
+    "question_variations": [
+  "What is a social media posting calendar?",
+  "How do I plan my social media posts?",
+  "Why should I use a social media content calendar?",
+  "How can I schedule social media content?",
+  "What should a social media calendar contain?"
+  ],
+  "answer": "A social media content calendar is a schedule that outlines what content will be posted, on which platform, and when. It helps maintain consistency, plan campaigns in advance, and ensure a good mix of content types."
+  },
+  {
+  "id": 18,
+  "category": "Social Media Marketing",
+  "question": "Should small businesses use paid social media ads?",
+  "question_variations": [
+    "Should I advertise my business on social media?",
+    "Can paid social media ads help my business?",
+    "How can I advertise my business on Facebook and Instagram?",
+    "Are social media ads useful for small businesses?",
+    "I want to advertise my business online using social media."
+  ],
+  "answer": "Yes, paid social media ads can help small businesses reach a targeted audience quickly, even with a small budget. Platforms like Facebook and Instagram allow precise targeting by location, interests, and demographics, making ad spend efficient."
+},
+  {
+    "id": 19,
+    "category": "Social Media Marketing",
+    "question": "What is organic reach on social media?",
+    "question_variations": [
+  "What does organic reach mean?",
+  "What is unpaid reach on social media?",
+  "How does organic social media reach work?",
+  "What is the difference between organic and paid reach?",
+  "How many people can see my posts without advertising?"
+  ],
+  "answer": "Organic reach is the number of people who see your content without paid promotion, based purely on algorithm distribution to followers and their networks. It has declined over time on many platforms, making paid promotion more valuable."
+  },
+  {
+    "id": 20,
+    "category": "Social Media Marketing",
+    "question": "How can I grow my social media followers?",
+    "question_variations": [
+  "How can I get more social media followers?",
+  "How do I increase my Instagram followers?",
+  "How can my business grow on social media?",
+  "What are ways to grow social media followers?",
+  "How can I build a larger social media audience?"
+  ],
+  "answer": "You can grow your followers by posting consistently, creating valuable and shareable content, engaging with your audience through comments and messages, collaborating with other creators, and using relevant hashtags and trends."
+  },
+  {
+  "id": 21,
+  "category": "Google/Online Advertising",
+  "question": "What is Google Ads?",
+  "question_variations": [
+    "What are Google Ads?",
+    "How does Google advertising work?",
+    "How can I advertise my business on Google?",
+    "How can I run paid ads on Google?",
+    "How can I promote my business using Google Ads?"
+  ],
+  "answer": "Google Ads is an online advertising platform where businesses pay to display ads on Google's search results, YouTube, and partner websites. Advertisers typically pay per click (PPC) or per impression to reach potential customers."
+  },
+  {
+    "id": 22,
+    "category": "Google/Online Advertising",
+    "question": "What is PPC advertising?",
+    "question_variations": [
+  "What does PPC mean?",
+  "How does pay per click advertising work?",
+  "What is pay-per-click marketing?",
+  "How do businesses use PPC ads?",
+  "How do I run PPC advertising?"
+  ],
+  "answer": "PPC stands for Pay-Per-Click, an advertising model where advertisers pay a fee each time someone clicks on their ad. It allows businesses to buy visits to their website rather than earning them organically."
+  },
+  {
+    "id": 23,
+    "category": "Google/Online Advertising",
+    "question": "What is Quality Score in Google Ads?",
+    "question_variations": [
+  "What is Google Ads Quality Score?",
+  "How does Quality Score work?",
+  "Why is Quality Score important?",
+  "How can I improve my Google Ads Quality Score?",
+  "What affects Quality Score in Google Ads?"
+  ],
+  "answer": "Quality Score is a metric Google uses to measure the relevance and quality of your ads, keywords, and landing pages. A higher Quality Score can lower your cost per click and improve your ad position."
+  },
+  {
+    "id": 24,
+    "category": "Google/Online Advertising",
+    "question": "What is the difference between SEO and SEM?",
+    "question_variations": [
+  "How are SEO and SEM different?",
+  "What is the difference between SEO and paid search?",
+  "Is SEM paid or organic?",
+  "How does SEM compare with SEO?",
+  "What is SEO versus search engine marketing?"
+  ],
+  "answer": "SEO focuses on improving organic (unpaid) search rankings, while SEM (Search Engine Marketing) includes paid strategies like Google Ads to gain visibility in search results. SEM delivers faster results but requires ongoing budget."
+  },
+  {
+    "id": 25,
+    "category": "Google/Online Advertising",
+    "question": "What is a landing page?",
+    "question_variations": [
+  "What is a marketing landing page?",
+  "What is a landing page used for?",
+  "Why do advertisers use landing pages?",
+  "How does a landing page work?",
+  "What makes a good advertising landing page?"
+  ],
+  "answer": "A landing page is a standalone web page created specifically for a marketing or advertising campaign, designed with a single focused goal, such as capturing leads or driving sales, rather than general site navigation."
+  },
+  {
+    "id": 26,
+    "category": "Google/Online Advertising",
+    "question": "How much does online advertising cost?",
+    "question_variations": [
+  "How much money do I need for online advertising?",
+  "What is the cost of Google Ads?",
+  "How much should I spend on online ads?",
+  "What is a typical digital advertising budget?",
+  "Can I advertise online with a small budget?"
+  ],
+  "answer": "The cost of online advertising varies widely based on platform, industry, competition, and targeting. Google Ads and Facebook Ads let you set your own daily budget, making it flexible for businesses of any size to get started."
+  },
+  {
+    "id": 27,
+    "category": "Google/Online Advertising",
+    "question": "What is retargeting in online advertising?",
+    "question_variations": [
+  "What is retargeting?",
+  "How does remarketing work?",
+  "How can I advertise to previous website visitors?",
+  "What are retargeting ads?",
+  "How do I bring previous visitors back to my website?"
+  ],
+  "answer": "Retargeting (or remarketing) is a technique that shows ads to people who have already visited your website or interacted with your brand, reminding them to return and complete an action like a purchase."
+  },
+  {
+    "id": 28,
+    "category": "Google/Online Advertising",
+    "question": "What is Click-Through Rate (CTR)?",
+    "question_variations": [
+  "What does CTR mean?",
+  "How is click-through rate calculated?",
+  "What is click rate in online advertising?",
+  "How do I calculate CTR?",
+  "Why is click-through rate important?"
+  ],
+  "answer": "Click-Through Rate (CTR) is the percentage of people who click on your ad after seeing it, calculated by dividing clicks by impressions. A higher CTR generally indicates that your ad is relevant and compelling to viewers."
+  },
+  {
+    "id": 29,
+    "category": "Content Marketing",
+    "question": "What is content marketing?",
+    "question_variations": [
+  "What does content marketing mean?",
+  "How does content marketing work?",
+  "What is content-based marketing?",
+  "How can content help a business grow?",
+  "Why do businesses create marketing content?"
+  ],
+  "answer": "Content marketing is a strategic approach focused on creating and distributing valuable, relevant content such as blogs, videos, and infographics to attract and engage a target audience, ultimately driving profitable customer action."
+  },
+  {
+    "id": 30,
+    "category": "Content Marketing",
+    "question": "Why is content marketing important?",
+    "question_variations": [
+  "Why is content marketing useful?",
+  "What are the benefits of content marketing?",
+  "How can content marketing help my business?",
+  "Why should a business use content marketing?",
+  "Does content marketing help generate leads?"
+  ],
+  "answer": "Content marketing builds trust and authority with your audience, improves SEO rankings, generates leads, and nurtures customer relationships over time, making it a cost-effective way to grow a business sustainably."
+  },
+  {
+    "id": 31,
+    "category": "Content Marketing",
+    "question": "What types of content can be used in content marketing?",
+    "question_variations": [
+  "What are different types of marketing content?",
+  "What content formats can businesses use?",
+  "What can I create for content marketing?",
+  "Which types of content work for digital marketing?",
+  "What are examples of content marketing?"
+  ],
+  "answer": "Common content types include blog posts, videos, infographics, podcasts, case studies, ebooks, social media posts, and email newsletters. The best format depends on your audience's preferences and platform."
+  },
+  {
+    "id": 32,
+    "category": "Content Marketing",
+    "question": "How do I create a content marketing strategy?",
+    "question_variations": [
+  "How do I plan a content marketing strategy?",
+  "How can I create a content strategy?",
+  "What are the steps in content marketing?",
+  "How do I plan content for my business?",
+  "How can I build an effective content plan?"
+  ],
+  "answer": "Start by defining your target audience and goals, then research topics they care about, plan a content calendar, create high-quality content consistently, distribute it across the right channels, and measure performance to refine your approach."
+  },
+  {
+    "id": 33,
+    "category": "Content Marketing",
+    "question": "What makes content go viral?",
+    "question_variations": [
+  "How does content become viral?",
+  "What makes a post go viral?",
+  "How can I create viral content?",
+  "Why do some social media posts go viral?",
+  "What makes content highly shareable?"
+  ],
+  "answer": "Viral content usually evokes strong emotions, is highly shareable, taps into current trends, is easy to understand quickly, and provides value or entertainment. Timing and platform algorithms also play a significant role."
+  },
+  {
+    "id": 34,
+    "category": "Content Marketing",
+    "question": "What is a content calendar?",
+    "question_variations": [
+  "What is a content planning calendar?",
+  "How do I organize my content schedule?",
+  "Why use a content calendar?",
+  "How can I plan when to publish content?",
+  "What should be included in a content calendar?"
+  ],
+  "answer": "A content calendar is a planning tool that outlines what content will be published, where, and when. It helps marketing teams stay organized, maintain consistency, and align content with campaigns and important dates."
+  },
+  {
+    "id": 35,
+    "category": "Content Marketing",
+    "question": "What is evergreen content?",
+    "question_variations": [
+  "What does evergreen content mean?",
+  "What is evergreen marketing content?",
+  "What type of content stays useful for a long time?",
+  "What are examples of evergreen content?",
+  "Why is evergreen content valuable?"
+  ],
+  "answer": "Evergreen content is content that remains relevant and valuable to readers over a long period of time, unlike news or trend-based content. Examples include how-to guides, tutorials, and foundational explainer articles."
+  },
+  {
+    "id": 36,
+    "category": "Content Marketing",
+    "question": "How does storytelling help in content marketing?",
+    "question_variations": [
+  "Why is storytelling important in marketing?",
+  "How does storytelling improve content?",
+  "How can stories help a brand?",
+  "Why should businesses use storytelling?",
+  "How can storytelling make marketing more engaging?"
+  ],
+  "answer": "Storytelling helps content marketing by making messages more memorable and emotionally engaging. A well-told story connects with the audience on a human level, builds brand identity, and makes information easier to relate to and recall."
+  },
+  {
+  "id": 37,
+  "category": "Email Marketing",
+  "question": "How does email marketing work?",
+  "question_variations": [
+    "How can I promote my business through emails?",
+    "How can I market my business using email?",
+    "How can email help promote my business?",
+    "How do businesses use email for marketing?",
+    "How can I promote products through email?",
+    "What is email marketing used for?"
+  ],
+  "answer": "Email marketing works by building a list of subscribers who opt in to receive communications, then sending targeted emails such as newsletters, promotions, or updates to nurture relationships and drive conversions."
+  },
+  {
+    "id": 38,
+    "category": "Email Marketing",
+    "question": "How do I grow my email list?",
+    "question_variations": [
+  "How can I build my email subscriber list?",
+  "How do I get more email subscribers?",
+  "How can I increase my email list?",
+  "What are ways to grow an email list?",
+  "How can I get customers to subscribe to my emails?"
+  ],
+  "answer": "You can grow your email list by offering valuable incentives like free ebooks or discounts, adding signup forms to your website and social media, running contests, and ensuring your existing content encourages subscriptions."
+  },
+  {
+    "id": 39,
+    "category": "Email Marketing",
+    "question": "What is an open rate in email marketing?",
+    "question_variations": [
+  "What is email open rate?",
+  "How is email open rate calculated?",
+  "What does open rate mean?",
+  "How do I measure email opens?",
+  "Why is email open rate important?"
+  ],
+  "answer": "Open rate is the percentage of recipients who open a specific email out of the total number of emails delivered. It is used to measure how effective your subject lines and sender reputation are at prompting opens."
+  },
+  {
+    "id": 40,
+    "category": "Email Marketing",
+    "question": "What is email segmentation?",
+    "question_variations": [
+  "What is email list segmentation?",
+  "How does email segmentation work?",
+  "Why should I segment my email subscribers?",
+  "How can I divide my email audience?",
+  "What are different ways to segment an email list?"
+  ],
+  "answer": "Email segmentation is the practice of dividing your email subscribers into smaller groups based on criteria like interests, behavior, or demographics, so you can send more relevant, personalized content to each group."
+  },
+  {
+    "id": 41,
+    "category": "Email Marketing",
+    "question": "What is an autoresponder in email marketing?",
+    "question_variations": [
+  "What is an email autoresponder?",
+  "How do automated emails work?",
+  "What are automated email responses?",
+  "How can I automatically send emails to customers?",
+  "What is email automation?"
+  ],
+  "answer": "An autoresponder is an automated email or series of emails sent to subscribers based on triggers such as signing up, making a purchase, or abandoning a cart, without requiring manual sending each time."
+  },
+  {
+    "id": 42,
+    "category": "Email Marketing",
+    "question": "How can I improve my email open rates?",
+    "question_variations": [
+  "How can I get more people to open my emails?",
+  "How can I increase email open rates?",
+  "How can I improve my email subject lines?",
+  "What can improve email open rate?",
+  "How do I make customers open my emails?"
+  ],
+  "answer": "You can improve open rates by writing compelling and clear subject lines, sending emails at optimal times, personalizing content, maintaining a clean subscriber list, and ensuring your sender name is recognizable and trustworthy."
+  },
+  {
+    "id": 43,
+    "category": "Email Marketing",
+    "question": "What is A/B testing in email marketing?",
+    "question_variations": [
+  "What is A/B testing for email campaigns?",
+  "How does email A/B testing work?",
+  "How can I test two email versions?",
+  "Why use A/B testing in email marketing?",
+  "How do I compare different email subject lines?"
+  ],
+  "answer": "A/B testing in email marketing involves sending two variations of an email, such as different subject lines or designs, to a small portion of your list to see which performs better before sending the winning version to everyone else."
+  },
+  {
+    "id": 44,
+    "category": "Analytics & General Digital Marketing",
+    "question": "What is digital marketing?",
+    "question_variations": [
+  "What does digital marketing mean?",
+  "How does digital marketing work?",
+  "What are the main types of digital marketing?",
+  "How can businesses market products online?",
+  "What is online marketing?"
+  ],
+  "answer": "Digital marketing is the promotion of products or services using digital channels such as search engines, social media, email, and websites, allowing businesses to reach and engage audiences online through measurable strategies."
+  },
+  {
+    "id": 45,
+    "category": "Analytics & General Digital Marketing",
+    "question": "What is Google Analytics?",
+    "question_variations": [
+  "What does Google Analytics do?",
+  "How does Google Analytics work?",
+  "What can I track with Google Analytics?",
+  "How can I monitor website traffic?",
+  "Why do marketers use Google Analytics?"
+  ],
+  "answer": "Google Analytics is a free web analytics tool that tracks and reports website traffic, showing metrics like visitor behavior, traffic sources, bounce rate, and conversions, helping marketers make data-driven decisions."
+  },
+  {
+    "id": 46,
+    "category": "Analytics & General Digital Marketing",
+    "question": "What is conversion rate?",
+    "question_variations": [
+  "What does conversion rate mean?",
+  "How do I calculate conversion rate?",
+  "How is conversion rate measured?",
+  "What is a website conversion?",
+  "Why is conversion rate important?"
+  ],
+  "answer": "Conversion rate is the percentage of visitors who complete a desired action, such as making a purchase or filling out a form, out of the total number of visitors. It is a key metric for measuring marketing effectiveness."
+  },
+  {
+    "id": 47,
+    "category": "Analytics & General Digital Marketing",
+    "question": "What is bounce rate?",
+    "question_variations": [
+  "What does bounce rate mean?",
+  "How is website bounce rate calculated?",
+  "Why is my website bounce rate high?",
+  "What does a high bounce rate indicate?",
+  "How can I reduce my bounce rate?"
+  ],
+  "answer": "Bounce rate is the percentage of visitors who leave a website after viewing only one page without taking further action. A high bounce rate can indicate irrelevant content, poor design, or slow loading speed."
+  },
+  {
+    "id": 48,
+    "category": "Analytics & General Digital Marketing",
+    "question": "What is ROI in digital marketing?",
+    "question_variations": [
+  "What does ROI mean in marketing?",
+  "How do I calculate marketing ROI?",
+  "What is return on investment in digital marketing?",
+  "How can I measure marketing profitability?",
+  "Why is ROI important in digital marketing?"
+  ],
+  "answer": "ROI, or Return on Investment, measures the profitability of a marketing campaign by comparing the revenue generated to the amount spent. It helps businesses determine which strategies are worth continuing or scaling."
+  },
+  {
+    "id": 49,
+    "category": "Analytics & General Digital Marketing",
+    "question": "What is a marketing funnel?",
+    "question_variations": [
+  "What is a digital marketing funnel?",
+  "How does a marketing funnel work?",
+  "What are the stages of a marketing funnel?",
+  "What is the customer journey funnel?",
+  "How do customers move through a marketing funnel?"
+  ],
+  "answer": "A marketing funnel represents the customer journey from initial awareness of a brand through consideration and ultimately to a purchase decision, typically divided into stages like awareness, interest, decision, and action."
+  },
+  {
+    "id": 50,
+    "category": "Analytics & General Digital Marketing",
+    "question": "How do I measure the success of a digital marketing campaign?",
+    "question_variations": [
+  "How do I know if my digital marketing is successful?",
+  "How can I measure marketing campaign performance?",
+  "What KPIs should I use for digital marketing?",
+  "How do I measure the results of an online campaign?",
+  "What metrics show whether a marketing campaign worked?"
+  ],
+  "answer": "Success is measured using key performance indicators (KPIs) relevant to your goals, such as website traffic, conversion rate, click-through rate, engagement, and ROI, tracked using tools like Google Analytics and platform dashboards."
+  },
+  {
+    "id": 51,
+    "category": "Greetings & Farewells",
+    "question": "Hello! ",
+    "question_variations": [
+  "Hi there!",
+  "Hey!",
+  "Greetings!",
+  "Good day!",
+  "Hello!"
+  ],
+  "answer": "Hello! How can I assist you with digital marketing today?"
+  },
+  {
+    "id": 52,
+    "category": "Greetings & Farewells",
+    "question": "Goodbye!",
+    "question_variations": [
+  "Bye!",
+  "See you later!",
+  "Farewell!",
+  "Take care!",
+  "Goodbye!"
+  ],
+  "answer": "Goodbye! Feel free to reach out if you have more questions about digital marketing."
+  }
+]
